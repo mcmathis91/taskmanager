@@ -2,22 +2,22 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-color: #789395;
+    background-color: #b2bec3;
 }
   
 textarea {
     background: transparent;
     border: none;
     resize: none;
-    color: #E5E3C9;
-    border-left: 1px solid #E5E3C9;
+    color: #00b894;
+    border-left: 1px solid #00b894;
     padding: 10px;
 }
   
 .jumbotron {
     text-align: center;
     background-color: transparent;
-    color: #E5E3C9;
+    color: #00b894;
     border-radius: 0;
     border-bottom: 10px solid white;
 }
@@ -39,32 +39,32 @@ textarea {
 }
   
 .hour {
-    background-color: #94B49F;
-    color: #E5E3C9;
+    background-color: #00b894;
+    color: black;
     border-top: 1px dashed white;
     text-align: right;
 }
   
 .past {
-    background-color: #94B49F;
-    color: #E5E3C9
+    background-color: #2d3436;
+    color: white;
 }
   
 .present {
-    background-color: #8E806A;
-    color: #E5E3C9;
+    background-color: #dfe6e9;
+    color: black;
 }
   
 .future {
-    background-color: #E4CDA7;
-    color: #E5E3C9;
+    background-color: #636e72;
+    color: black;
 }
   
 .saveBtn {
     border-left: 1px solid white;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #9A9483;
+    background-color: #00b894;
     color: white;
 }
   
