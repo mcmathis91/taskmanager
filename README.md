@@ -8,3 +8,5 @@ Time passes via color-coordinated events using moment.js (black = past, white = 
 Current date integrated using moment.js
 
 Layout built using Bootstrap and CSS
+
+# github pages link
